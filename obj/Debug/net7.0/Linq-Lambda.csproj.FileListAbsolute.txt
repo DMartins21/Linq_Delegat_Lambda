@@ -1,0 +1,15 @@
+C:\Users\davi_\OneDrive\Área de Trabalho\Estudos\C#\Repos\Linq-Lambda\bin\Debug\net7.0\Linq-Lambda.exe
+C:\Users\davi_\OneDrive\Área de Trabalho\Estudos\C#\Repos\Linq-Lambda\bin\Debug\net7.0\Linq-Lambda.deps.json
+C:\Users\davi_\OneDrive\Área de Trabalho\Estudos\C#\Repos\Linq-Lambda\bin\Debug\net7.0\Linq-Lambda.runtimeconfig.json
+C:\Users\davi_\OneDrive\Área de Trabalho\Estudos\C#\Repos\Linq-Lambda\bin\Debug\net7.0\Linq-Lambda.dll
+C:\Users\davi_\OneDrive\Área de Trabalho\Estudos\C#\Repos\Linq-Lambda\bin\Debug\net7.0\Linq-Lambda.pdb
+C:\Users\davi_\OneDrive\Área de Trabalho\Estudos\C#\Repos\Linq-Lambda\obj\Debug\net7.0\Linq-Lambda.csproj.AssemblyReference.cache
+C:\Users\davi_\OneDrive\Área de Trabalho\Estudos\C#\Repos\Linq-Lambda\obj\Debug\net7.0\Linq-Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davi_\OneDrive\Área de Trabalho\Estudos\C#\Repos\Linq-Lambda\obj\Debug\net7.0\Linq-Lambda.AssemblyInfoInputs.cache
+C:\Users\davi_\OneDrive\Área de Trabalho\Estudos\C#\Repos\Linq-Lambda\obj\Debug\net7.0\Linq-Lambda.AssemblyInfo.cs
+C:\Users\davi_\OneDrive\Área de Trabalho\Estudos\C#\Repos\Linq-Lambda\obj\Debug\net7.0\Linq-Lambda.csproj.CoreCompileInputs.cache
+C:\Users\davi_\OneDrive\Área de Trabalho\Estudos\C#\Repos\Linq-Lambda\obj\Debug\net7.0\Linq-Lambda.dll
+C:\Users\davi_\OneDrive\Área de Trabalho\Estudos\C#\Repos\Linq-Lambda\obj\Debug\net7.0\refint\Linq-Lambda.dll
+C:\Users\davi_\OneDrive\Área de Trabalho\Estudos\C#\Repos\Linq-Lambda\obj\Debug\net7.0\Linq-Lambda.pdb
+C:\Users\davi_\OneDrive\Área de Trabalho\Estudos\C#\Repos\Linq-Lambda\obj\Debug\net7.0\Linq-Lambda.genruntimeconfig.cache
+C:\Users\davi_\OneDrive\Área de Trabalho\Estudos\C#\Repos\Linq-Lambda\obj\Debug\net7.0\ref\Linq-Lambda.dll
