@@ -2,13 +2,14 @@
 
 namespace Linq_Lambda.Entities
 {
+   
     class Product
     {
+       
         public string Name { get; set; }
-        public double Price { get; set; }
+        public decimal Price { get; set; }
 
-
-        public Product(string name, double price)
+        public Product(string name, decimal price)
         {
             Name = name;
             Price = price;
@@ -16,7 +17,7 @@ namespace Linq_Lambda.Entities
 
         public override string ToString() 
         {
-            return Name + ": " + Price.ToString("F2",CultureInfo.InvariantCulture);
+            return Name + ": " + Price.ToString("C",CultureInfo.CreateSpecificCulture("pt-BR"));
         }
     }
 }
